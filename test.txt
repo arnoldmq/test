@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 I'm changing this file
 now lets try merging
+=======
+I'm chaning this file
+
+this is the second add for merging
+>>>>>>> origin/master
